@@ -13,11 +13,11 @@ class bloque {
 }
 class handler {
     constructor() {
+        //EDITABLE: Hacer una lista para pegar dentro de los brackets []
+        //          Formato de lista: "Nombre1", "Nombre 2", "Nombre 3"
+        //          Todo texto debe ir DENTRO de las comillas, o marcará error
+        // this.instituciones = ["Prepa 01.", "Prepa 02.", "Prepa O3."]
         this.instituciones = [
-            //EDITABLE: Hacer una lista para pegar dentro de los brackets []
-            //          Formato de lista: "Nombre1", "Nombre 2", "Nombre 3"
-            //          Todo texto debe ir DENTRO de las comillas, o marcará error
-            // this.instituciones = ["Prepa 01.", "Prepa 02.", "Prepa O3."]
                             ];
         this.bloques = [];
         this.etapa = 0;
