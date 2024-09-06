@@ -6,5 +6,5 @@ Pasos para abrir la página web de forma local:
 5. Editar los documentos a preferencia (seguir los comentarios en verde)
      5.1 Copiar los nombres de los archivos tal cual como aparecen en el folder (nombre y extensión)
 6. Crear una nueva carpeta (dentro de la carpeta original) llamada "img"
-7. Dentro de esta carpeta, subir las láminas descargadas con las indicaciones dadas en el documento de index.html (renombrar imgk.jpg donde k es el número de bloque/estado miembro)
+7. Dentro de esta carpeta, subir las láminas descargadas con las indicaciones dadas en el documento de script.js (renombrar imgk.jpg donde k es el número de bloque/estado miembro)
 8. Probar el código abriendo el archivo index.html
